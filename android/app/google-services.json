@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "89424314863",
+    "project_id": "flowsync-e406f",
+    "storage_bucket": "flowsync-e406f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89424314863:android:fa7a920745dda545dcb61a",
+        "android_client_info": {
+          "package_name": "com.flutterapp.flow_sync"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwcwTNxOynAGUDHgJDCRa_vy0vIGMWAvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89424314863:android:d1df260f1fb92630dcb61a",
+        "android_client_info": {
+          "package_name": "com.fluttertest.flutter_test22"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwcwTNxOynAGUDHgJDCRa_vy0vIGMWAvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
