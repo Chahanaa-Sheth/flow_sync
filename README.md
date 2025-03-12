@@ -1,16 +1,6 @@
+#Blood & Breast Milk Donation App (Flutter & Supabase)
 # flow_sync
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Developed a Flutter-based mobile application for blood and breast milk donation.
+Implemented Supabase authentication with Google, email, and OTP login options.
+Created a dashboard with sections for donation tracking and a chat feature for users to connect.
+Ensured real-time updates and a smooth user experience through optimized UI/UX design using Figma
